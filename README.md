@@ -6,7 +6,7 @@ LG U+ WhyNotSWCamp 7기 입니다.
 <br>
 
 
-<b> chatGPT를 활용해서 자기소개 웹페이지!</b>
+<b> ChatGPT를 활용해서 자기소개 웹페이지!</b>
 
 <b> 나의 웹페이지를 확인하세요! </b>
 
