@@ -13,4 +13,4 @@ LG U+ WhyNotSWCamp 7기 입니다.
 https://sswwdk.github.io/WhyNotSWCamp7/index.html
 
 
-```python
+```markdown 안녕하세요
