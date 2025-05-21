@@ -13,4 +13,18 @@ LG U+ WhyNotSWCamp 7기 입니다.
 https://sswwdk.github.io/WhyNotSWCamp7/index.html
 
 
-```markdown 안녕하세요
+-안녕
+-하세요
+-저는
+-김아무개
+*입니다
+*안녕
+*하세요
+*저는
+*김아무개
+*입니다
+1. 안녕
+2. 하세요
+3. 저는
+4. 김아무개
+5. 입니다
