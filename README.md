@@ -30,3 +30,9 @@ https://sswwdk.github.io/WhyNotSWCamp7/index.html
 3. 저는
 4. 김아무개
 5. 입니다
+
+-안녕
+-하세요
+-저는
+-김아무개
+-
