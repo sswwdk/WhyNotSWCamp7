@@ -18,7 +18,7 @@ https://sswwdk.github.io/WhyNotSWCamp7/index.html
 -저는
 -김아무개
 *입니다
-*안녕
+* 안녕, 하세요, 저는, 김아무개, 입니다
 *하세요
 *저는
 *김아무개
